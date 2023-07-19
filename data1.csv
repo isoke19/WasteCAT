@@ -1,0 +1,310 @@
+FIPS,Year,Materials,Percentage,wasteCATAG
+4013,2014,Paper,0.126,           Paper 
+4013,2014,Newspaper,0.0095,      Paper 
+4013,2014,Plain OCC/Kraft Paper,0.0138, Paper 
+4013,2014,Waxed OCC/Kraft Paper,0.0007, Paper
+4013,2014,High Grade Paper,0.0031,      Paper
+4013,2014,Mixed Low-grade Paper,0.0378, paper 
+4013,2014,Milk/Juice Polycoated Paper,0.0014, paper 
+4013,2014,Frozen Food Polycoated Paper,0.0012, paper
+4013,2014,Compostable/Food Soiled Paper,0.0536, paper
+4013,2014,Paper/Other Materials,0.0047, paper 
+4013,2014,Plastic,0.098, plastic
+4013,2014,#1 PET Bottles,0.0083, bottles
+4013,2014,#1 PET Other Packaging,0.0025, bottles
+4013,2014,#2 HDPE Natural Bottles,0.0022, bottles
+4013,2014,#2 HDPE Colored Bottles,0.0028, bottles
+4013,2014,#2 HDPE Other Packaging,0.0003, bottles
+4013,2014,Other Rigid Plastic Packaging,0.0083, plastic
+4013,2014,Expanded Polystyrene,0.0072, plastic
+4013,2014,Compostable Plastics,0.0002, plastic
+4013,2014,Plastic Grocery/Merchandise Bags,0.0102, plastic
+4013,2014,Other Clean Plastic Consumer Product Bags,0.0038, plastic 
+4013,2014,Plastic Garbage Bags,0.0099, plastic 
+4013,2014,Other Plastic Film,0.0162, plastic 
+4013,2014,Mixed Rigid Plastics,0.0162, plastic 
+4013,2014,Plastic/Other Materials,0.0094, plastic 
+4013,2014,Glass,0.019, Glass
+4013,2014,Glass Beverage Containers,0.0118, Glass
+4013,2014,Fluorescent Tubes,0, Glass
+4013,2014,Other Glass,0.0068, Glass
+4013,2014,Metal,0.027, Metal
+4013,2014,Aluminum Cans,0.0026, Cans
+4013,2014,Aluminum Foil/Containers,0.0017, Containers
+4013,2014,Other Nonferrous,0.0009,
+4013,2014,Tin Food Cans,0.006, Cans
+4013,2014,Empty Aerosol Cans,0.001, Cans
+4013,2014,Other Ferrous,0.0052, Metal
+4013,2014,Oil Filters,0.0002, Household Hazardous Materials
+4013,2014,Mixed Metals/Material,0.0089, Metal
+4013,2014,Organic,0.481, Organics
+4013,2014,Leaves & Grass,0.229, Glass
+4013,2014,Unaccepted Yard Waste,0.031, Yard waste
+4013,2014,"Prunings Less than 2""",0.0568, Organics
+4013,2014,"Prunings 2"" to 12""",0.0133, Organics
+4013,2014,"Prunings Greater than 12""",0.0043, Organics
+4013,2014,Purchased Food,0.1227, Food
+4013,2014,Homegrown Food,0.0198,  Food
+4013,2014,Beverages and Liquids,0.0044,  Other Materials
+4013,2014,Other Materials,0.184, Other Materials
+4013,2014,Textiles,0.0416, Textiles
+4013,2014,Carpet/Upholstery,0.0255, problem Materials
+4013,2014,Leather,0.0021,Leather
+4013,2014,Disposable Diapers,0.031, problem Materials
+4013,2014,Animal By-products,0.0265, other
+4013,2014,Rubber Products,0.006, problem Materials
+4013,2014,Tires,0.001, problem Materials
+4013,2014,Ash,0.0003, problem Materials
+4013,2014,Furniture,0.0008,problem Materials
+4013,2014,Mattresses,0.0002,problem Materials
+4013,2014,Small Appliances,0.0065, problem Materials
+4013,2014,CRTs,0.0025, Other Material
+4013,2014,Other Electronics,0.0068, problem Materials
+4013,2014,Ceramics/Porcelain,0.0042, Other Materials
+4013,2014,Non-distinct Fines,0.0181, Common Contaminants
+4013,2014,Miscellaneous Organics,0.0093, Organics
+4013,2014,Miscellaneous Inorganics,0.0018, Organics
+4013,2014,Hazardous Wastes,0.007, Hazardous Wastes
+4013,2014,Latex Paint,0.0012, Household Hazardous Wastes
+4013,2014,Hazardous Adhesives/Glues,0.0001, Household Hazardous Wastes
+4013,2014,Non-hazardous Adhesives/Glues,0, Household Hazardous Wastes
+4013,2014,Oil-based Paint/Solvent,0.0002,  Household Hazardous Wastes
+4013,2014,Hazardous Cleaners,0.0001, Household Hazardous Wastes
+4013,2014,Pesticides/Herbicides,0.0001, Hazardous Wastes
+4013,2014,Non-rechargeable Dry-cell Batteries,0.0006, Problem Materials
+4013,2014,Rechargeable Dry-cell Batteries,0.0001, Problem Materials
+4013,2014,Wet-cell (car) Batteries,0, Problem Materials
+4013,2014,Asbestos,0, Hazardous Wastes
+4013,2014,Explosives,0.0001, Problem Materials
+4013,2014,Vehicle and Equipment Fluids,0.0001, Hazardous wastes
+4013,2014,Pool Chemicals,0,  Hazardous Wastes
+4013,2014,Other Hazardous Chemicals,0.0013, Hazardous Wastes
+4013,2014,Other Non-hazardous Chemicals,0.0026, Hazardous Wastes
+4013,2014,C&D Wastes,0.059, C&D 
+4013,2014,Dimension Lumber,0.0057, C&D 
+4013,2014,Pallets/Crates,0.0009, wood Pallets
+4013,2014,Treated Wood,0.0081, Clean wood 
+4013,2014,Contaminated Wood,0.0123, wood Pallets
+4013,2014,New Gypsum Scrap,0.0025,C&D
+4013,2014,Demo Gypsum Scrap,0.0027,C&D
+4013,2014,Insulation,0.0002, C&D
+4013,2014,Rock/Concrete/Bricks,0.0125, C&D
+4013,2014,Asphaltic Roofing,0.0038,C&D
+4013,2014,Other Construction Debris,0.0108, C&D
+6000,2021,Paper,0.155, Paper
+6000,2021,Corrugated Cardboard,0.041, Paper
+6000,2021,Paper Grocery Bags,0.001, Paper
+6000,2021,Other Paper Bags/Kraft Paper,0.004, Paper
+6000,2021,Newspapers/Newspaper Inserts,0.003, Paper
+6000,2021,White Office-type Paper and Mail,0.006, Paper
+6000,2021,Magazines and Catalogs,0.004, Paper
+6000,2021,Folding Cartons and Other Paperboard Packaging,0.012, Paper
+6000,2021,Aseptic Containers,0.001, Paper
+6000,2021,Gable-top Cartons,0.001, Paper
+6000,2021,Paper/Fiber Food Service Ware,0.021, Paper
+6000,2021,Other Recyclable Paper,0.013, Paper
+6000,2021,Other Paper/Fiber - Packaging,0.008, Paper
+6000,2021,Other Compostable Paper,0.035, Paper
+6000,2021,Remainder/Composite Paper,0.006, Paper
+6000,2021,Plastic (category which includes the following material types),0.137, Plastic
+6000,2021,PETE Beverage Containers - CRV,0.006, Plastic
+6000,2021,PETE Bottles and Jars - Non-CRV,0.002, Plastic
+6000,2021,HDPE Beverage Containers - CRV,0.001, Plastic
+6000,2021,HDPE Bottles and Jars - Non-CRV,0.004, Plastic
+6000,2021,Expanded Polystyrene Packaging,0.002, Plastic
+6000,2021,Plastic Trash Bags,0.015, Plastic
+6000,2021,Plastic Grocery and Other Merchandise Bags,0.006, Plastic
+6000,2021,Film Products- Non-Packaging,0.005, Plastic
+6000,2021,Flexible Plastic Pouches,0,Plastic
+6000,2021,Non-Bag Commercial and Industrial Packaging Film,0.014, Plastic
+6000,2021,Other Film Bags and Plastic Mailing Pouches,0.004, Plastic
+6000,2021,Rigid Plastic Food Service Ware,0.013, Plastic
+6000,2021,Other Plastic Packaging,0.031, Plastic
+6000,2021,Durable Plastic Items,0.023, Plastic
+6000,2021,Remainder/Composite Plastic,0.011, Plastic
+6000,2021,Glass (category which includes the following material types),0.023, Glass
+6000,2021,Clear Glass Bottles and Containers - CRV,0.005, Glass
+6000,2021,Clear Glass Bottles and Containers - Non-CRV,0.007, Glass
+6000,2021,Green Glass Bottles and Containers - CRV,0.001, Glass
+6000,2021,Brown Glass Bottles and Containers - CRV,0.002,  Glass
+6000,2021,Green and Brown Glass Bottles and Containers - Non-CRV,0.003, Glass
+6000,2021,Other Colored Glass Bottles and Containers,0.001, Glass
+6000,2021,Remainder/Composite Glass,0.005, Glass
+6000,2021,Metal (category which includes the following material types),0.049, Metal
+6000,2021,Tin/Steel Cans,0.004, Metal
+6000,2021,Aluminum Cans - CRV,0.002, Metal
+6000,2021,Aluminum Cans - Non-CRV,0.001,Metal
+6000,2021,Major Appliances,0.004, Metal
+6000,2021,Other Ferrous,0.024, Metal
+6000,2021,Other Non-Ferrous,0.007, Metal
+6000,2021,Remainder/Composite Metal,0.007, Metal
+6000,2021,Electronics (category which includes the following material types),0.009, Metal
+6000,2021,Covered Video Display Devices,0.002, Other
+6000,2021,Consumer Electronics and Small Equipment,0.005, Problem Materials
+6000,2021,Large Equipment,0.002, Problem Materials
+6000,2021,Organics (category which includes the following material types),0.284, Organics
+6000,2021,"Food - Potentially Donatable - Vegetative, Food
+(Perishable/Fresh)",0.015, Food
+6000,2021,"Food - Potentially Donatable - Eggs, Dairy, and Dairy
+Alternatives",0.002, Food
+6000,2021,Food - Potentially Donatable - Meat,0.003, Food
+6000,2021,Food - Potentially Donatable -Cooked/Baked/Prepared Perishable Items,0.003, Food
+6000,2021,Food - Potentially Donatable - Packaged Non-perishable,0.014,Food
+6000,2021,Food - Not Donatable - Meat,0.009, Food
+6000,2021,Food - Not Donatable - Non-meat,0.04, Food
+6000,2021,Food - Inedible,0.023, Food
+6000,2021,Leaves and Grass,0.022, Food
+6000,2021,Prunings and Trimmings,0.028, Organic
+6000,2021,Branches and Stumps,0.01,  Organic
+6000,2021,Manures,0.007,  Organic
+6000,2021,Clean Dimensional Lumber,0.028,  Organic
+6000,2021,Clean Engineered Wood,0.019, Clean wood
+6000,2021,Clean Pallets and Crates,0.014, Wood pallets
+6000,2021,Treated/Painted/Stained Wood,0.034, wood pallets
+6000,2021,Other Recyclable Wood,0.002,  wood pallets
+6000,2021,Remainder/Composite Organic,0.009,  organic 
+6000,2021,Inerts and Other (category which includes the following material types),0.12,
+6000,2021,Concrete,0.019, C&D
+6000,2021,Asphalt Roofing,0.014, C&D
+6000,2021,Gypsum Board,0.018, C&D
+6000,2021,Carpet,0.013, C&D
+6000,2021,"Rock, Soil and Fines",0.02, C&D
+6000,2021,Remainder/Composite Inerts and Other,0.036, C&D
+6000,2021,HHW (category which includes the following material types),0.003, C&D
+6000,2021,Paint,0.001, C&D
+6000,2021,Used Oil,0, C&D
+6000,2021,Lead-acid (automotive) batteries,0, C&D
+6000,2021,Other batteries,0, C&D
+6000,2021,One-Pound or Less Propane Gas Cylinders,0, C&D
+6000,2021,Pharmaceuticals,0, C&D
+6000,2021,Remainder/Composite Household Hazardous,0.001, C&D
+6000,2021,Special Waste (category which includes the following material types),0.052, C&D
+6000,2021,Tires,0.001, C&D
+6000,2021,Mattresses and Foundations,0.011,C&D
+6000,2021,Bulky Items,0.036, C&D
+6000,2021,Remainder/Composite Special Waste,0.004, C&D
+6000,2021,Miscellaneous (category which includes the following material types),0.169,
+6000,2021,Textiles - Cloth and Clothing,0.025, Textiles
+6000,2021,"Textiles - Shoes, Purses, Belts",0.005, Textiles
+6000,2021,Personal Protective Equipment (PPE),0.005, Textiles
+6000,2021,Solar Panels,0, Hazardous waste 
+6000,2021,Diapers & Sanitary Products,0.024, Other Materials
+6000,2021,Miscellaneous Inorganics,0.015, Inorganics
+6000,2021,Mixed Residue,0.095, Inorganics
+8013,2019,Paper,0.214, Paper
+8013,2019,Newsprint,0.006, Paper
+8013,2019,High Grade Office Paper,0.013, Paper
+8013,2019,Shredded Paper,0.003, Paper
+8013,2019,Old Corrugated Cardboard,0.063, Paper
+8013,2019,Magazines/Catalogs,0.012, Paper
+8013,2019,Mixed Recyclable Paper,0.029, Paper
+8013,2019,Polycoated/Aseptic Containers,0.003, Paper
+8013,2019,Compostable Paper,0.07, Paper
+8013,2019,Unrecyclable Paper,0.017, Paper
+8013,2019,Plastic,0.14, Plastic 
+8013,2019,#1 PET Bottles/Jars,0.008, Plastic 
+8013,2019,#2 HDPE Bottles/Jars,0.007, Plastic 
+8013,2019,Bottles #3-7,0.001, Plastic 
+8013,2019,Other Plastic Tubs/Cups <3 Gal,0.009, Plastic 
+8013,2019,Large Plastic Containers >3 Gal,0.01, Plastic 
+8013,2019,Plastic Bags,0.019, Plastic 
+8013,2019,Other Plastic Film,0.033, Plastic 
+8013,2019,Thermoforms,0.006,
+8013,2019,Expanded Polystyrene,0.004,
+8013,2019,Other Rigid Plastics,0.044, 
+8013,2019,Metal,0.047, Metal
+8013,2019,Aluminum Cans,0.003, Metal
+8013,2019,Aluminum Foil & Trays,0.002, Metal
+8013,2019,Ferrous Containers,0.006, Metal
+8013,2019,Other Ferrous,0.032, Metal
+8013,2019,Other Non-Ferrous,0.004, Metal
+8013,2019,White Goods,0, Metal
+8013,2019,Glass,0.033, Glass
+8013,2019,Glass Bottles and Jars,0.031, Glass
+8013,2019,Other Glass,0.002, Glass
+8013,2019,Organic,0.209, Glass
+8013,2019,Yard Waste,0.025, 5 C&D 
+8013,2019,"Branches, Limbs, Stumps",0.001, 5 C&D 
+8013,2019,Food Waste,0.158, 5 C&D 
+8013,2019,Other Organics,0.024, Organics
+8013,2019,Problem Materials,0.159, Problem Materials
+8013,2019,Large Electronics (Plug-in),0.021, Problem Materials
+8013,2019,Small Electronics (Recharge),0.003, Problem Materials
+8013,2019,Small Appliances,0.005, Problem Materials
+8013,2019,Diapers/Sanitary Products,0.013, Problem Materials
+8013,2019,Textiles/Leather,0.036, Other Materials
+8013,2019,Carpet/Padding,0.008,  Other Materials
+8013,2019,Batteries,0.001,  Other Materials
+8013,2019,Rubber,0.018,  Other Materials
+8013,2019,Tires,0.007,  Other Materials
+8013,2019,Furniture/Bulky Items,0.036, Other Materials
+8013,2019,Other Inorganics,0.01,  Other Materials
+8013,2019,Marijuana Waste,0.001,  Other Materials
+8013,2019,HHW,0.012,  Other Materials
+8013,2019,Fluorescent Tubes and Bulbs,0.001,  Other Materials
+8013,2019,Pharmaceuticals and Syringes,0.009,  Other Materials
+8013,2019,Oil-based Paint & Finishes,0,  Other Materials
+8013,2019,Latex Paint & Finishes,0.001,  Other Materials
+8013,2019,Pesticides,0, Hazardous waste
+8013,2019,Automotive Fluids,0, Hazardous waste
+8013,2019,Other HHW,0.001, Hazardous waste
+8013,2019,C&D,0.145, C&D 
+8013,2019,Aggregate/Asphalt/Ceramics,0.005, Hazardous waste
+8013,2019,Asphalt Shingles,0, Hazardous waste
+8013,2019,Painted/Stained/Treated Wood,0.027, Clean wood
+8013,2019,Clean Wood,0.039, Clean wood
+8013,2019,Wood Pallets,0.032, Wood pallets
+8013,2019,Clean/New Drywall,0.008, C&D
+8013,2019,Demo/Painted Drywall,0.003, C&D
+8013,2019,Other C&D,0.032, C&D
+8013,2019,Other,0.04, C&D
+8013,2019,Fines/Dirt,0.034, C&D
+8013,2019,Coffee Cups Non-Compostable,0.005,other Materials
+8013,2019,BPI Certified Compostables,0.001, other Materials
+8013,2019,Bagged Material (BCRC Only),0, other Materials
+13000,2005,Newspaper,0.048, paper
+13000,2005,Corrugated Cardboard,0.11, paper
+13000,2005,Office,0.034, paper
+13000,2005,Magazine/Glossy,0.026, Paper
+13000,2005,Paperboard,0.034, paper
+13000,2005,Mixed (Other Recyclable),0.03, paper
+13000,2005,Other (Non-recyclable),0.105, paper
+13000,2005,Total Paper,0.387, paper
+13000,2005,#1 PET Bottles,0.013, bottles
+13000,2005,#2 HDPE Bottles,0.011, bottles
+13000,2005,#3-#7 Bottles,0.002, bottles
+13000,2005,Expanded Polystyrene,0.014, plastic
+13000,2005,Film Plastic^{2},0.074, plastic
+13000,2005,Other Rigid Plastic,0.044, plastic
+13000,2005,Total Plastic,0.158, plastic
+13000,2005,Clear,0.017, plastic
+13000,2005,Green,0.004, plastic
+13000,2005,Amber,0.012, plastic
+13000,2005,Other,0.004, other material
+13000,2005,Total Glass,0.037, Organic
+13000,2005,Steel Cans,0.013, Metal
+13000,2005,Aluminum Cans,0.007, Metal
+13000,2005,Other Ferrous,0.026, Metal
+13000,2005,Other Non-Ferrous,0.007, Metal
+13000,2005,Total Metal,0.054,  Metal
+13000,2005,Yard Waste,0.027,  Metal
+13000,2005,Wood (non-C&D),0.019, C&D
+13000,2005,Food Waste,0.12, C&D
+13000,2005,Textiles,0.04, Textiles
+13000,2005,Diapers,0.025, Textiles
+13000,2005,Fines,0.028, Textiles
+13000,2005,Other Organics,0.013, Organic
+13000,2005,Total Organic,0.271, Organic
+13000,2005,Drywall,0.004, C&D
+13000,2005,Wood,0.025, C&D
+13000,2005,Inerts,0.004,
+13000,2005,Carpet,0.014, 
+13000,2005,Other C&D,0.012,other 
+13000,2005,Total C&D,0.06, Total 
+13000,2005,Televisions,0.001, Problem Materials
+13000,2005,Computers,0.001, Problem Materials
+13000,2005,Other Electronics,0.018, Problem Materials
+13000,2005,Tires,0.002, Other  Materials
+13000,2005,HHW,0.004,Household Hazardous Waste
+13000,2005,Other Inorganics,0.008, Other 
+13000,2005,Total Inorganics,0.033, Other 
